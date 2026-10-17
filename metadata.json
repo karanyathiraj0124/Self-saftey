@@ -1,0 +1,6 @@
+{
+  "name": "Self Safety",
+  "description": "Personal safety and solo emergency guardian app with active journey timers, discreet alerts, live GPS guardian sharing, and SOS broadcasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
